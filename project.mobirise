@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SampleWedding1",
-    "currentPage": "Fahmiullifah.html",
+    "currentPage": "Fahmiullifah-ainafirdaus.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,10 +59,10 @@
     "google-analytics": ""
   },
   "pages": {
-    "Fahmiullifah.html": {
+    "Fahmiullifah-ainafirdaus.html": {
       "settings": {
         "main": true,
-        "title": "Fahmi & Ullifah",
+        "title": "Fahmiullifah-ainafirdaus",
         "meta_descr": "Walimatul Urus | Fahmi & Ullifah | 13 Jun 2020 - Sabtu |\nTapah Perak",
         "header_custom": "",
         "footer_custom": "",
